@@ -1,0 +1,1 @@
+"C:\Program Files\Cold Turkey\Cold Turkey Blocker.exe" -start "HWY" -lock 10
